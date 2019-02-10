@@ -20,6 +20,4 @@ router.get('/services', function(req, res, next) {
 router.get('/contact', function(req, res, next) {
     res.render('contact', { title: 'Contact' });
 });
-
-
 module.exports = router;
