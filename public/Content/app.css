@@ -1,1 +1,27 @@
 /* Custom CSS goes here.. */
+
+.social {
+    float: left;
+    top: auto;
+    left: 0;
+    padding: 10px;
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+header {
+    padding: 156px 0 100px;
+}
+
+section {
+    padding: 150px 0;
+}
+
+img {
+    height: 100px;
+    width: auto;
+    padding: 10px;
+    margin-left: 0;
+    border-image-outset: 0rem;
+    opacity: 1;
+}
